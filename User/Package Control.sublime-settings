@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Emmet",
+		"Generic Config",
+		"GitGutter",
+		"Gutter Color",
+		"Laravel Blade Highlighter",
+		"Modific",
+		"Numix Theme",
+		"Package Control",
+		"PHP-Twig",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Syntax Highlighting for Sass",
+		"Theme - Numix",
+		"Theme - Orchis",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - Spacegray",
+		"Twig"
+	]
+}

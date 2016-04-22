@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[@include container();]]></content>
+	<tabTrigger>container</tabTrigger>
+</snippet>
